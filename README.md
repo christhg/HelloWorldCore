@@ -1,0 +1,2 @@
+# HelloWorldCore
+.Net Core Tutorial
